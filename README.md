@@ -10,7 +10,7 @@
 	Name: Maharshi reddy Baddam
 	NetID: MXB180036
  
-	Name: Kalyankumar kancharla
+	Name: Kalyan Kumar Kancharla
 	NetID: KXK190004
 
 ## Steps to run
